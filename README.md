@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luliu-9&label=Profile%20views&color=0e75b6&style=flat" alt="luliu-9" /> </p>
 
-- 💬 Ask me about **react,nextjs**
+- 👩🏻‍💻 I'm currently learning **Next.js,c#**
+
+- 💬 Ask me about **react,Next.js**
 
 - 📫 How to reach me **lu.liu4work@gmail.com**
 
