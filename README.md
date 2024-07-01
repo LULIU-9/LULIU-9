@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luliu-9&label=Profile%20views&color=0e75b6&style=flat" alt="luliu-9" /> </p>
 
-- 👩🏻‍💻 I'm currently learning **Next.js, AWS**
+- 👩🏻‍💻 I'm currently learning **Next.js, AWS, C#, .net**
 
 - 💬 Ask me about **React,Next.js**
 
